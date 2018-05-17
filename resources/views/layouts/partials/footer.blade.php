@@ -1,0 +1,1 @@
+<footer class="w-full pin-b text-center py-4 text-white-dark text-sm">{{ env('SITE_NAME') }} is created and maintained by <a href='https://twitter.com/milanchheda' class="font-semibold text-white-dark" target="_BLANK">Milan Chheda</a></footer>
